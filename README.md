@@ -8,10 +8,11 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. import numpy as np
+2. Initialize array with zero
+3. Read the input matrix
+4. Use back substitution method to find the value of variables
+5. Print the output
 
 ## Program:
 ```
